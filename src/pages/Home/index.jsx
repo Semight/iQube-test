@@ -7,7 +7,7 @@ import { Payment } from "../../components/Payment/Payment";
 
 const Home = () => {
   return (
-      <div className="md:mt-20 md:ml-64 md:mr-40 sm:mt-10 ml-4 mr-4">
+      <div className="mt-20 md:ml-64 md:mr-40 ml-4 mr-4">
         <h3 className="md:text-3xl text-base font-bold text-[#4e598c] py-10 pl-4">Complete your Purchase</h3>
         {/* <hr className="border-none bg-light-black-1 h-[1px]" /> */}
 
